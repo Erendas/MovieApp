@@ -1,4 +1,18 @@
-Available Scripts
+# Explanation
+
+A Movie App is a platform that helps users discover, explore, and track movies in one place. It allows users to browse trending, popular, top-rated, and upcoming films. In short, a movie app is built to make movie discovery simple, engaging, and personalized—so users can always find something great to watch.
+   
+## Installation
+ 1) Clone the repository:
+    git clone "link"
+ 2) Go into the project folder:
+    cd "file_name"
+ 3) Install dependencies:
+    npm install
+ 4) Start development server:
+    npm run dev
+
+## Available Scripts
 
 In the project directory, you can run:
 
